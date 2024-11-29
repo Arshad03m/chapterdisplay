@@ -1,3 +1,4 @@
+// to store the json data
 let chapters = {};
 
 // Fetch data from the JSON file
