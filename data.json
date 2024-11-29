@@ -1,0 +1,20 @@
+{
+  "chapter1": {
+    "name": "Chapter 1 - Introduction to HTML",
+    "introduction": "This chapter introduces the basics of HTML.",
+    "content": "HTML stands for HyperText Markup Language...",
+    "summary": "You learned the structure and basic tags of HTML."
+  },
+  "chapter2": {
+    "name": "Chapter 2 - CSS Basics",
+    "introduction": "This chapter covers the fundamentals of CSS.",
+    "content": "CSS is used to style HTML documents...",
+    "summary": "You now understand selectors and basic styling in CSS."
+  },
+  "chapter3": {
+    "name": "Chapter 3 - JavaScript Essentials",
+    "introduction": "This chapter dives into JavaScript basics.",
+    "content": "JavaScript is used to add interactivity to webpages...",
+    "summary": "Covered variables, functions, and events in JavaScript."
+  }
+}
